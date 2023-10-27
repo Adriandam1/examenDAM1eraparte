@@ -22,4 +22,4 @@ git add README.md
 commit:
 git commit -m "subo y edito readme"
 
-git push origin main
+git push origin master
